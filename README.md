@@ -1,7 +1,7 @@
-##To run project
+## To run project
 Just navigate to this folder and run docker compose up
 
-##To change the blender model
+## To change the blender model
 Add a blender model download script in dwn_model, there is a model example already there
 
 Change the model docker RUN script Dockerfile
@@ -20,7 +20,7 @@ models:
     ...
 ```
 
-##To change custom model
+## To change custom model
 
 Copy your model files in customworld
 example is how the mental_bert_swmh_improved is placed there
